@@ -1,0 +1,5 @@
+Image: image_4.png
+Predicted text: ফেরদোৌস
+Model: best_model.pth (epoch 42)
+Val CER: 0.13715147943801112
+Val WER: 0.31866197183098594
